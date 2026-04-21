@@ -38,7 +38,8 @@ gcc scramble.c -o scramble
 ./scramble
 ```
 
-💻 Kullanılan Teknolojiler
+💻### Kullanılan Teknolojiler
+
 Dil: C (İşaretçi Aritmetiği ve Dinamik Bellek Yönetimi)
 
 Veri Yapıları: İkili Ağaçlar (Binary Trees), Diziler (Arrays)
